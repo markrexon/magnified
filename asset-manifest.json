@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/magnified/static/css/main.da3089f3.css",
+    "main.js": "/magnified/static/js/main.1666e298.js",
+    "static/media/magnifyelshaddai_banner.jpg": "/magnified/static/media/magnifyelshaddai_banner.91f0b12cb20109fbb014.jpg",
+    "static/media/madrasUniversity.jpg": "/magnified/static/media/madrasUniversity.4d1210102b2df3e90d74.jpg",
+    "static/media/BWT_Logo_Color.jpg": "/magnified/static/media/BWT_Logo_Color.498a89119fe06ae7294d.jpg",
+    "static/media/tamil.png": "/magnified/static/media/tamil.157d575eda7e9585ee7a.png",
+    "static/media/catholicTamilWebsiteAdvertisement.png": "/magnified/static/media/catholicTamilWebsiteAdvertisement.bad9dff3290655e43d98.png",
+    "static/media/logo.png": "/magnified/static/media/logo.a69c084a26b437ec93b9.png",
+    "index.html": "/magnified/index.html",
+    "main.da3089f3.css.map": "/magnified/static/css/main.da3089f3.css.map",
+    "main.1666e298.js.map": "/magnified/static/js/main.1666e298.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da3089f3.css",
+    "static/js/main.1666e298.js"
+  ]
+}
